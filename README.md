@@ -1,3 +1,3 @@
-A calculator built with using CSS, HTML, JavaScript.
+A calculator built using CSS, HTML, JavaScript.
 
 https://aimanbaga.github.io/calculator
